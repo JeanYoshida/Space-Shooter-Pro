@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jeany\\Space Shooter Pro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\jeany\\Space Shooter Pro\\assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|c:\\users\\jeany\\space shooter pro\\assets\\materials 1\\shaders\\galaxy.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\materials 1\\shaders\\galaxy.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\jeany\\Space Shooter Pro\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\jeany\\Space Shooter Pro\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\jeany\\Space Shooter Pro\\assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\jeany\\Space Shooter Pro\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|c:\\users\\jeany\\space shooter pro\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,44 +30,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Galaxy.shader",
-              "DocumentMoniker": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Materials 1\\Shaders\\Galaxy.shader",
-              "RelativeDocumentMoniker": "Assets\\Materials 1\\Shaders\\Galaxy.shader",
-              "ToolTip": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Materials 1\\Shaders\\Galaxy.shader",
-              "RelativeToolTip": "Assets\\Materials 1\\Shaders\\Galaxy.shader",
-              "ViewState": "AgIAAJwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-04-15T21:47:03.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
               "ToolTip": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:01:35.115Z"
+              "WhenOpened": "2025-04-15T19:01:35.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:08:55.707Z"
+              "WhenOpened": "2025-04-10T20:08:55.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Laser.cs",
               "DocumentMoniker": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\Laser.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Laser.cs",
@@ -84,15 +69,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\jeany\\Space Shooter Pro\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T03:02:10.231Z"
+              "WhenOpened": "2025-04-08T03:02:10.231Z",
+              "EditorCaption": ""
             }
           ]
         }
